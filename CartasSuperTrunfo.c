@@ -75,7 +75,7 @@ int main(){
     printf("Número de Pontos Turísticos: %d \n", pturisticos);
     printf("Densidade Populacional: %.2fhab/km²\n", densidadep);
     printf("PIB per Capita: %.2f reais\n", pibpc);
-    printf("Super Poder: %.2f reais\n", superP1);
+    printf("Super Poder: %.2f\n", superP1);
 
     //carta 2 resultados
 
@@ -89,7 +89,7 @@ int main(){
     printf("Número de Pontos Turísticos: %d \n", pturisticos2);
     printf("Densidade Populacional: %.2fhab/km²\n", densidadep2);
     printf("PIB per Capita: %.2f reais\n", pibpc2);
-    printf("Super Poder: %.2f reais\n\n", superP2);
+    printf("Super Poder: %.2f\n\n", superP2);
 
     // Comparação
 
